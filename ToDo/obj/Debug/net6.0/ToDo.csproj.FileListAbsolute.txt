@@ -1,0 +1,6 @@
+D:\WebApp_Test\ToDo\obj\Debug\net6.0\ToDo.csproj.AssemblyReference.cache
+D:\WebApp_Test\ToDo\obj\Debug\net6.0\ToDo.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApp_Test\ToDo\obj\Debug\net6.0\ToDo.AssemblyInfoInputs.cache
+D:\WebApp_Test\ToDo\obj\Debug\net6.0\ToDo.AssemblyInfo.cs
+D:\WebApp_Test\ToDo\obj\Debug\net6.0\ToDo.csproj.CoreCompileInputs.cache
+D:\WebApp_Test\ToDo\obj\Debug\net6.0\ToDo.MvcApplicationPartsAssemblyInfo.cache

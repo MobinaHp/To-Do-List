@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WebApp_Test\\ToDo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73AA0052-B441-49F6-B691-3D1EB9D812E3}|ToDo.csproj|d:\\webapp_test\\todo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73AA0052-B441-49F6-B691-3D1EB9D812E3}|ToDo.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AA0052-B441-49F6-B691-3D1EB9D812E3}|ToDo.csproj|d:\\webapp_test\\todo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AA0052-B441-49F6-B691-3D1EB9D812E3}|ToDo.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AA0052-B441-49F6-B691-3D1EB9D812E3}|ToDo.csproj|d:\\webapp_test\\todo\\data\\taskdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AA0052-B441-49F6-B691-3D1EB9D812E3}|ToDo.csproj|solutionrelative:data\\taskdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AA0052-B441-49F6-B691-3D1EB9D812E3}|ToDo.csproj|d:\\webapp_test\\todo\\data\\listdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AA0052-B441-49F6-B691-3D1EB9D812E3}|ToDo.csproj|solutionrelative:data\\listdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AA0052-B441-49F6-B691-3D1EB9D812E3}|ToDo.csproj|d:\\webapp_test\\todo\\viewmodel\\taskviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AA0052-B441-49F6-B691-3D1EB9D812E3}|ToDo.csproj|solutionrelative:viewmodel\\taskviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AA0052-B441-49F6-B691-3D1EB9D812E3}|ToDo.csproj|d:\\webapp_test\\todo\\model\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AA0052-B441-49F6-B691-3D1EB9D812E3}|ToDo.csproj|solutionrelative:model\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AA0052-B441-49F6-B691-3D1EB9D812E3}|ToDo.csproj|d:\\webapp_test\\todo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73AA0052-B441-49F6-B691-3D1EB9D812E3}|ToDo.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AA0052-B441-49F6-B691-3D1EB9D812E3}|ToDo.csproj|d:\\webapp_test\\todo\\model\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AA0052-B441-49F6-B691-3D1EB9D812E3}|ToDo.csproj|solutionrelative:model\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AA0052-B441-49F6-B691-3D1EB9D812E3}|ToDo.csproj|d:\\webapp_test\\todo\\todo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{73AA0052-B441-49F6-B691-3D1EB9D812E3}|ToDo.csproj|solutionrelative:todo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 275,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\WebApp_Test\\ToDo\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\WebApp_Test\\ToDo\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAsAAACAZmZmZmYowBIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T07:54:04.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListDataProvider.cs",
+              "DocumentMoniker": "D:\\WebApp_Test\\ToDo\\Data\\ListDataProvider.cs",
+              "RelativeDocumentMoniker": "Data\\ListDataProvider.cs",
+              "ToolTip": "D:\\WebApp_Test\\ToDo\\Data\\ListDataProvider.cs",
+              "RelativeToolTip": "Data\\ListDataProvider.cs",
+              "ViewState": "AQIAABIAAAAAzczMzMwhwCYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T17:36:01.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\WebApp_Test\\ToDo\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\WebApp_Test\\ToDo\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T13:35:37.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "List.cs",
+              "DocumentMoniker": "D:\\WebApp_Test\\ToDo\\Model\\List.cs",
+              "RelativeDocumentMoniker": "Model\\List.cs",
+              "ToolTip": "D:\\WebApp_Test\\ToDo\\Model\\List.cs",
+              "RelativeToolTip": "Model\\List.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T07:07:09.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskDataProvider.cs",
+              "DocumentMoniker": "D:\\WebApp_Test\\ToDo\\Data\\TaskDataProvider.cs",
+              "RelativeDocumentMoniker": "Data\\TaskDataProvider.cs",
+              "ToolTip": "D:\\WebApp_Test\\ToDo\\Data\\TaskDataProvider.cs",
+              "RelativeToolTip": "Data\\TaskDataProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T10:07:43.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskViewModel.cs",
+              "DocumentMoniker": "D:\\WebApp_Test\\ToDo\\ViewModel\\TaskViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\TaskViewModel.cs",
+              "ToolTip": "D:\\WebApp_Test\\ToDo\\ViewModel\\TaskViewModel.cs",
+              "RelativeToolTip": "ViewModel\\TaskViewModel.cs",
+              "ViewState": "AQIAAJEAAAAANDMzMzMrwI4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T17:58:57.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Task.cs",
+              "DocumentMoniker": "D:\\WebApp_Test\\ToDo\\Model\\Task.cs",
+              "RelativeDocumentMoniker": "Model\\Task.cs",
+              "ToolTip": "D:\\WebApp_Test\\ToDo\\Model\\Task.cs",
+              "RelativeToolTip": "Model\\Task.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T07:06:42.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\WebApp_Test\\ToDo\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\WebApp_Test\\ToDo\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-04T21:24:55.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ToDo.csproj",
+              "DocumentMoniker": "D:\\WebApp_Test\\ToDo\\ToDo.csproj",
+              "RelativeDocumentMoniker": "ToDo.csproj",
+              "ToolTip": "D:\\WebApp_Test\\ToDo\\ToDo.csproj",
+              "RelativeToolTip": "ToDo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-08T07:05:52.968Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 21,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

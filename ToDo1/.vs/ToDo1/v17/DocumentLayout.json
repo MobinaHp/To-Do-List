@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WebApp_Test\\ToDo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A63CE95-76E5-46BB-8E7E-19075E0A77A2}|ToDo1.csproj|d:\\webapp_test\\todo1\\controllers\\listcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A63CE95-76E5-46BB-8E7E-19075E0A77A2}|ToDo1.csproj|solutionrelative:controllers\\listcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A63CE95-76E5-46BB-8E7E-19075E0A77A2}|ToDo1.csproj|d:\\webapp_test\\todo1\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A63CE95-76E5-46BB-8E7E-19075E0A77A2}|ToDo1.csproj|solutionrelative:controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A63CE95-76E5-46BB-8E7E-19075E0A77A2}|ToDo1.csproj|d:\\webapp_test\\todo1\\model\\dto\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A63CE95-76E5-46BB-8E7E-19075E0A77A2}|ToDo1.csproj|solutionrelative:model\\dto\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A63CE95-76E5-46BB-8E7E-19075E0A77A2}|ToDo1.csproj|d:\\webapp_test\\todo1\\model\\dto\\listdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A63CE95-76E5-46BB-8E7E-19075E0A77A2}|ToDo1.csproj|solutionrelative:model\\dto\\listdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A63CE95-76E5-46BB-8E7E-19075E0A77A2}|ToDo1.csproj|d:\\webapp_test\\todo1\\model\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A63CE95-76E5-46BB-8E7E-19075E0A77A2}|ToDo1.csproj|solutionrelative:model\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A63CE95-76E5-46BB-8E7E-19075E0A77A2}|ToDo1.csproj|d:\\webapp_test\\todo1\\model\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A63CE95-76E5-46BB-8E7E-19075E0A77A2}|ToDo1.csproj|solutionrelative:model\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A63CE95-76E5-46BB-8E7E-19075E0A77A2}|ToDo1.csproj|d:\\webapp_test\\todo1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A63CE95-76E5-46BB-8E7E-19075E0A77A2}|ToDo1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A63CE95-76E5-46BB-8E7E-19075E0A77A2}|ToDo1.csproj|d:\\webapp_test\\todo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A63CE95-76E5-46BB-8E7E-19075E0A77A2}|ToDo1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A63CE95-76E5-46BB-8E7E-19075E0A77A2}|ToDo1.csproj|d:\\webapp_test\\todo1\\data\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A63CE95-76E5-46BB-8E7E-19075E0A77A2}|ToDo1.csproj|solutionrelative:data\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A63CE95-76E5-46BB-8E7E-19075E0A77A2}|ToDo1.csproj|d:\\webapp_test\\todo1\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A63CE95-76E5-46BB-8E7E-19075E0A77A2}|ToDo1.csproj|solutionrelative:mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A63CE95-76E5-46BB-8E7E-19075E0A77A2}|ToDo1.csproj|d:\\webapp_test\\todo1\\todo1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A63CE95-76E5-46BB-8E7E-19075E0A77A2}|ToDo1.csproj|solutionrelative:todo1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 275,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "List.cs",
+              "DocumentMoniker": "D:\\WebApp_Test\\ToDo1\\Model\\List.cs",
+              "RelativeDocumentMoniker": "Model\\List.cs",
+              "ToolTip": "D:\\WebApp_Test\\ToDo1\\Model\\List.cs",
+              "RelativeToolTip": "Model\\List.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:57:54.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Task.cs",
+              "DocumentMoniker": "D:\\WebApp_Test\\ToDo1\\Model\\Task.cs",
+              "RelativeDocumentMoniker": "Model\\Task.cs",
+              "ToolTip": "D:\\WebApp_Test\\ToDo1\\Model\\Task.cs",
+              "RelativeToolTip": "Model\\Task.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:57:57.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListController.cs",
+              "DocumentMoniker": "D:\\WebApp_Test\\ToDo1\\Controllers\\ListController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ListController.cs",
+              "ToolTip": "D:\\WebApp_Test\\ToDo1\\Controllers\\ListController.cs",
+              "RelativeToolTip": "Controllers\\ListController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAIMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:06:57.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "D:\\WebApp_Test\\ToDo1\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaskController.cs",
+              "ToolTip": "D:\\WebApp_Test\\ToDo1\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Controllers\\TaskController.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAE4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:29:55.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListDTO.cs",
+              "DocumentMoniker": "D:\\WebApp_Test\\ToDo1\\Model\\DTO\\ListDTO.cs",
+              "RelativeDocumentMoniker": "Model\\DTO\\ListDTO.cs",
+              "ToolTip": "D:\\WebApp_Test\\ToDo1\\Model\\DTO\\ListDTO.cs",
+              "RelativeToolTip": "Model\\DTO\\ListDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:38:18.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskDTO.cs",
+              "DocumentMoniker": "D:\\WebApp_Test\\ToDo1\\Model\\DTO\\TaskDTO.cs",
+              "RelativeDocumentMoniker": "Model\\DTO\\TaskDTO.cs",
+              "ToolTip": "D:\\WebApp_Test\\ToDo1\\Model\\DTO\\TaskDTO.cs",
+              "RelativeToolTip": "Model\\DTO\\TaskDTO.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA/wB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:38:23.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\WebApp_Test\\ToDo1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\WebApp_Test\\ToDo1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-04T08:14:53.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ToDoContext.cs",
+              "DocumentMoniker": "D:\\WebApp_Test\\ToDo1\\Data\\ToDoContext.cs",
+              "RelativeDocumentMoniker": "Data\\ToDoContext.cs",
+              "ToolTip": "D:\\WebApp_Test\\ToDo1\\Data\\ToDoContext.cs",
+              "RelativeToolTip": "Data\\ToDoContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:19:16.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WebApp_Test\\ToDo1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\WebApp_Test\\ToDo1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAuwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:15:00.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "D:\\WebApp_Test\\ToDo1\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "MappingConfig.cs",
+              "ToolTip": "D:\\WebApp_Test\\ToDo1\\MappingConfig.cs",
+              "RelativeToolTip": "MappingConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:19:32.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ToDo1.csproj",
+              "DocumentMoniker": "D:\\WebApp_Test\\ToDo1\\ToDo1.csproj",
+              "RelativeDocumentMoniker": "ToDo1.csproj",
+              "ToolTip": "D:\\WebApp_Test\\ToDo1\\ToDo1.csproj",
+              "RelativeToolTip": "ToDo1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-04T08:14:22.202Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
